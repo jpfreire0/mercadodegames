@@ -1,6 +1,6 @@
 # Mercado de games
 
-*Esse projeto foi desenvolvido como conclusão do curso de certificação de Data Analytics do Google. A visualização produzida pode ser acessada [aqui](https://public.tableau.com/app/profile/jpfreire/viz/Mercadodegames). As informações a seguir são explicações de como foram feitas as etapas para chegar no resultado.*
+*Esse projeto foi desenvolvido como conclusão do curso de certificação de Data Analytics do Google. A visualização produzida pode ser acessada [aqui](https://public.tableau.com/app/profile/jpfreire/viz/Mercadodegames/Regio). As informações a seguir são explicações de como foram feitas as etapas para chegar no resultado.*
 
 ## Introdução
 
