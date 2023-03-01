@@ -49,6 +49,8 @@ A região da América do Norte representa 49,3% das vendas
 
 ## Conclusão
 
+### [Link para a apresentação](https://drive.google.com/file/d/1Ht0hCdF7D_5zZUGyvSmeHzFW5Cjtpqqp/view?usp=share_link)
+
 - O gênero com maior número de vendas entre 2000 e 2010 foi Ação.
 - Jogos multiplataforma venderam mais que jogos lançados em uma plataforma
 - Nintendo foi a publicadora com mais unidades vendidas
